@@ -1,0 +1,2 @@
+# Laravel
+Projekt za vjezbu
